@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/ufuk_/OneDrive - etu.edu.tr/TOBB ETU/Year 1 - Term 2/BIL142/Labs/Lab6/Matrix.cpp
+Matrix.h
+C:/Users/ufuk_/OneDrive - etu.edu.tr/TOBB ETU/Year 1 - Term 2/BIL142/Labs/Lab6/Matrix.h
+iostream
+-
+string
+-
+
+C:/Users/ufuk_/OneDrive - etu.edu.tr/TOBB ETU/Year 1 - Term 2/BIL142/Labs/Lab6/Matrix.h
+

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/ufuk_/Desktop/Lab4/Shape.cpp
+iostream
+-
+Shape.h
+C:/Users/ufuk_/Desktop/Lab4/Shape.h
+
+C:/Users/ufuk_/Desktop/Lab4/Shape.h
+

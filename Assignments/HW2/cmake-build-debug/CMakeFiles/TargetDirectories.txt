@@ -1,0 +1,3 @@
+C:/Users/ufuk_/OneDrive - etu.edu.tr/TOBB ETU/Year 1 - Term 2/BIL142 - Bilgisayar Programlama II/Assignments/HW2/cmake-build-debug/CMakeFiles/HW2.dir
+C:/Users/ufuk_/OneDrive - etu.edu.tr/TOBB ETU/Year 1 - Term 2/BIL142 - Bilgisayar Programlama II/Assignments/HW2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ufuk_/OneDrive - etu.edu.tr/TOBB ETU/Year 1 - Term 2/BIL142 - Bilgisayar Programlama II/Assignments/HW2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
